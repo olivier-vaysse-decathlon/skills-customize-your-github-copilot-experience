@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "student-gradebook",
+      "title": "File I/O Mini-Project: Student Gradebook",
+      "description": "Practice reading, appending, and analyzing student grades stored in a CSV file.",
+      "path": "assignments/student-gradebook",
+      "dueDate": "2026-11-30"
     }
   ]
 }
